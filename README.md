@@ -1,4 +1,4 @@
-<h1 align="center"> CombateTurnos ⚔️ </h1>
+<h1 align="center"> Combate em Turnos ⚔️ </h1>
 
 <p align="center">
 Projeto feito durante a Formação exclusiva, promovida pela Rocketseat para ensino da tecnologia Python!
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto é um jogo de Combate em Turnos onde você controla o Herói que possui habilidade especial!
+O Projeto é um jogo de Combate em Turnos onde você controla o Herói que possui habilidade especial e luta contra inimigos!
 
 Este projeto foi criado durante a formação exclusiva da Rocketseat! 🚀 Com foco nos fundamentos de Python!
 
